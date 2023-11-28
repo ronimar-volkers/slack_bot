@@ -11,7 +11,7 @@ import threading
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s', filename='logs.txt', filemode='a')
 # logging.getLogger().addHandler(logging.StreamHandler())
 
-slack_token = 'xoxb-5252401636407-5252765529847-iHXRoMu0Hq891H12bJptyoCV'
+slack_token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 slack_icon_emoji = ':male_mage:'
 slack_user_name = 'XXXXXXX'
 
